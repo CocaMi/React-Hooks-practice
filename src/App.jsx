@@ -161,7 +161,7 @@ function App() {
         placeholder="Enter your name..."
       />
 
-      <h1>Testing use</h1>
+      <h1>Testing react hooks</h1>
       <h2>Time passed: {secondsPassed.toFixed(3)}</h2>
       <button onClick={handleStart}>Start</button>
       <button onClick={handleStop}>Stop</button>
